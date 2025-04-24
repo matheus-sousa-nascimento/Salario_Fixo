@@ -28,4 +28,6 @@ O programa então calcula o salário total, considerando:
 3. O salário total é calculado e exibido.
 
   ```bash
-   javac SalarioFixo.java
+   Digite o seu salario: 1200
+Digite o valor das vendas: 2000
+O seu salario total e de R$1270.0
